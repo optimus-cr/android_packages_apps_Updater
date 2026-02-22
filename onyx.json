@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "Vikas",
+            "oem": "Poco",
+            "device": "Poco F7",
+            "filename": "crDroidAndroid-16.0-20260222-onyx-v12.7.zip",
+            "download": "https://sourceforge.net/projects/optimus-cr-personal/files/crDroidAndroid-16.0-20260222-onyx-v12.7.zip/download",
+            "timestamp": 1771737023,
+            "md5": "bf773baaaaa59814e9c857b319ce99b9",
+            "sha256": "eb5b3b05a891f29ab02c012c8182c1e640f25c02ac8cb45de5283f41aecc811a",
+            "size": 3887032388,
+            "version": "12.7",
+            "buildtype": "Weeklies",
+            "forum": "https://xdaforums.com/t/rom-poco-f7-onyx-16-0-crdroidandroid-v12-x-02-11-2025.4766256/",
+            "gapps": "https://sourceforge.net/projects/nikgapps/files/Elite-Releases/ionut/Android-16",
+            "firmware": "https://xmfirmwareupdater.com/hyperos/onyx/",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/crdroid/files/onyx/12.x/recovery/",
+            "paypal": "https://www.paypal.me/vikasyaduvanshii",
+            "telegram": "https://t.me/crdroidonyx",
+            "dt": "https://github.com/crdroidandroid/android_device_xiaomi_onyx",
+            "common-dt": "",
+            "kernel": "https://github.com/crdroidandroid/android_kernel_xiaomi_onyx"
+        }
+    ]
+}

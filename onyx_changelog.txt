@@ -1,0 +1,53 @@
+====================
+     02-22-2026
+====================
+
+📢 Update | 21–22 Feb 2026
+
+🔄 Merged latest upstream changes
+🌐 Chromium WebView → 145.0.7632.109 (all arch)
+🛠 Fixed popup back gesture crash & Launcher animation issue
+🔁 Rebased on HOS 3.0.5
+
+📶 VoLTE / VoWiFi / VoNR (All carriers + Jio)
+📞 Call recording (USA & Germany)
+📡 WiFi, BLE & VoIP improvements
+
+⚡ armv8-2a-dotprod + SurfaceFlinger & HWUI tuning
+🎮 Improved GameBar (CPU/GPU/RAM temps) + XiaomiParts enhancements
+🖥 120Hz keyguard & refined refresh rate control
+
+🔊 LunarisDolby (Personal) with improved bass
+🔋 Battery, thermal & charging optimizations
+🧹 Device tree cleanup & blob updates
+
+
+   * external/chromium-webview/prebuilt/arm
+f547731 Update Chromium Webview arm to 145.0.7632.109
+
+   * external/chromium-webview/prebuilt/arm64
+8ea09e0 Update Chromium Webview arm64 to 145.0.7632.109
+
+   * external/chromium-webview/prebuilt/x86
+2005a53 Update Chromium Webview x86 to 145.0.7632.109
+
+   * external/chromium-webview/prebuilt/x86_64
+0baf207 Update Chromium Webview x86_64 to 145.0.7632.109
+
+   * frameworks/base
+3c1912472995 base: Fix crash caused by back gesture on popup view
+
+   * packages/apps/Launcher3
+e10a9773fb Launcher3: Fix overview-to-home animation hanging issues
+
+   * packages/apps/Settings
+2d902ea3563 Revert "Settings: Add Glide library"
+
+   * packages/apps/crDroidSettings
+e73df58 crdroid: Rewrite UDFPS icon picker and animations
+
+====================
+     02-21-2026
+====================
+
+   *
